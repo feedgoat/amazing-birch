@@ -2,7 +2,6 @@
 template: index-template
 title: Afterbreakupme
 ---
+\#After Breakup
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+A guide to recovery from breakups.
