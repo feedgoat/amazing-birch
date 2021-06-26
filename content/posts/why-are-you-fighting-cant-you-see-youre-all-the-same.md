@@ -7,15 +7,15 @@ tags:
 ---
 ##### **There will come a time when you realize that the relationship is no longer working. However, there are various things that you can do before breaking up with someone. Breakups are never easy and there are certain things that one must avoid doing when breaking up with someone. Here are some examples of things not to do!**
 
-##### Don't let your emotions get the best of you
+1.  Don't let your emotions get the best of you
 
-##### Don't use hurtful language when confronting your ex
+2.  Don't use hurtful language when confronting your ex
 
-##### You should open up to him or her about your feelings and fears before breaking up with them
+3.  You should open up to him or her about your feelings and fears before breaking up with them
 
-##### Don't treat them any differently after breakup
+4.  Don't treat them any differently after a breakup
 
-##### Don't hold grudges against them after breakup (unless, obviously, you want to)
+5.  Don't hold grudges against them after a breakup (unless, obviously, you want to)
 
 ##### **1. Don't let your emotions get the best of you**
 
