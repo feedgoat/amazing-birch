@@ -5,48 +5,38 @@ tags:
   - rick and morty
   - tv series
 ---
+##### **There will come a time when you realize that the relationship is no longer working. However, there are various things that you can do before breaking up with someone. Breakups are never easy and there are certain things that one must avoid doing when breaking up with someone. Here are some examples of things not to do!**
 
-Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. Those guys are inside you building a piece of shit Ethan!! They're inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. Those guys are inside you building a piece of shit Ethan!! They're inside you building a monument to compromise!! Fuck them. Fuck those people. Fuck this whole thing Ethan. Listen, Morty, I hate to break it to you but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
+##### Don't let your emotions get the best of you
 
-You're young, you have your whole life ahead of you, and your anal cavity is still taut yet malleable. He's not a hot girl. He can't just bail on his life and set up shop in someone else's. Why are you fighting? Can’t you see you’re all the same? / Oh Summer, first race war, huh?. All right, all right, cool it! I see what's happening here. You're both young, you're both unsure about your place in the universe, and you both want to be Grandpa's favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa's concerned, you're both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways. All right, all right, cool it! I see what's happening here. You're both young, you're both unsure about your place in the universe, and you both want to be Grandpa's favorite. I can fix this. Morty, sit here. Summer, you sit here. Now, listen—I know the two of you are very different from each other in a lot of ways, but you have to understand that as far as Grandpa's concerned, you're both pieces of shit! Yeah. I can prove it mathematically. Actually, l-l-let me grab my whiteboard. This has been a long time coming, anyways.
+##### Don't use hurtful language when confronting your ex
 
-## Image
+##### You should open up to him or her about your feelings and fears before breaking up with them
 
-![Rocket launch](/media/rocket.jpg)
+##### Don't treat them any differently after breakup
 
-## Header
+##### Don't hold grudges against them after breakup (unless, obviously, you want to)
 
-Solebat cetera infelix duorum gravidi possit, et nec, est inpia mentique, consistere quae. Amplexus uror, pars pars aevo curas Cinyreius
-pennis sacrum inpulsaque o cunctos Oleniden peragit, se Athamas inmaduit
-transierant. Relicta significat rubenti potest.
+##### **1. Don't let your emotions get the best of you**
 
-Illa tibi cruentum adpulit pallent. Una dolorem quaque. Pars parvi, mihi quae
-Lyciaeque legit. Hic vitae felix illi laudatis? Et caelum, precatur nec pectora,
-Phoebi volucris moveo.
+##### \*\*When you're writing copy, the last thing you want is to let your emotions get the best of you. That's why you need to step back and take a breath. And if you start to get emotional, stop and take a break until you can handle it. Sometimes you need to stop and think. And sometimes you need to have a drink.
 
-## Unordered Lists
+##### “When we are engaged in creative work we have in mind the betterment of humankind and that we are so engaged that words may seem almost unnecessary..” — Kurt Vonnegut. Copywriting is emotional. If you feel more emotion, you’re going to express yourself better in your copy, and that’s what matters.&#xA;You have to say the things your customers or viewers need to hear, but make sure you don’t say the things that will upset them. You won’t always have to say what everybody else is thinking. Don’t start with the headline. Ask yourself why people should read into this article. That should give you the big ideas for the body copy.&#xA;Copywriting is a collaborative process. You’re not the sole writer on your piece of copy. You need multiple people to find clarity, give feedback, and enhance your idea. You’re part of a team. Don’t leave your social media choices up to the team. Go to them instead, and get their opinion so that you can implement it.&#xA;What will make a difference is when you approach your ideas with empathy. Many marketers use empathy as a marketing strategy because it helps them best not only read the minds of their audience but also be more authentic. It’s therapeutic because it also helps them show the compassion they have to show to build their brand.&#xA;If you read an article about the benefits of a product, and the headline says, “This is the most incredible thing in the World!” Then people are not going to think, This is the most incredible thing in the World, but This is the most amazing thing in the World as the headline.\*\*
 
-- Item 1
-- Item 2
-- Item 3
+##### **2. Don't use hurtful language when confronting your ex**
 
-## Ordered Lists
+##### \*\*When you're talking to someone on the phone or in person, you're not in the position to use language that could be hurtful or cause offence. If you feel the urge to say something hurtful when you're talking to your ex, don't. You've already made your point and you shouldn't use hurtful language.
 
-1. Item 1
-2. Item 2
-3. Item 3
+##### I recommend using ‘defensive language’ when you want to imply or show your superior knowledge or intelligence: Your lecture now? Over your dead body. Have you read that before? Your excuse? You’re a scientist. Choose one of the many options below, and keep your finger away from the trigger. If you wish to destroy someone’s reputation, you need to make it very clear you are the expert on what happened and you know more than anyone else about the situation. You can’t assume a privileged position because you are smarter or more experienced than anyone else.&#xA;Name calling and swearing are options when you are defending yourself against someone else’s negative opinion. This can be a great tactic if used sparingly because it is used to create an instance of false or exaggerated superiority, and situations where false accusations work best are those where the person accusing you is an outsider, under your authority, and/or your victim is someone weaker and less powerful.&#xA;One of the best ways to screw with someone's head is to make a false accusation. If you must use defensive language, carefully choose the words that make the most impact when you say them, so you come off as the aggrieved party and away from the person you are defending yourself against.&#xA;When people are feeling poorly about themselves, they will often say things like: “every body gets what they deserve” and “life is so unfair” This is assuming you are the victim, and therefore it is assumed you have chosen to take what you have, when you haven’t.\*\*
 
-## Code Block
+##### **3. You should open up to him or her about your feelings and fears before breaking up with them**
 
-```javascript
-// finds a given word in a string and replace with another one
-const findAndReplace = (string, wordToFind, wordToReplace) => {
-  return string.split(wordToFind).join(wordToReplace);
-};
+##### \*\*It’s important to be open and honest about your feelings and fears because these are two of the biggest reasons why you’d break up with someone.If you solve your relationship problems, love won’t feel so far away. As a former flame, I can tell you that there are situations that very few people will ever consider to be “romantic.” From constantly rejecting each other’s ideas, to the way they treated the way the love of their life during the first few months, there are many red flags that should have you questioning their intentions.
 
-let result = findAndReplace('I like banana', 'banana', 'apple'); // I like apple
-```
+##### As uncomfortable as it might be, it’s important to refer to any opportunities that don’t spark happiness and feel as if they might not work out.&#xA;Do they plan to hang on to each other for too long? Are they still together because they’re not sure how to break up?&#xA;Regardless of your relationship baggage, there’s always hope that someone could change their ways. There are amazing people in the world who haven’t realized they need to step up and lead. As Stu points out in his book, many people chase a relationship they don’t truly want.&#xA;It doesn’t have to mean destroying what’s good and promising to never be in the same place again.\*\*
 
-## Quoted Text
+##### **4. Don't treat them any differently after breakup**
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+##### \*\*It's very important to keep in mind that you're still the same person after a breakup and that you shouldn't treat the person you're in a relationship with any differently. This is difficult to do, but it's so important to keep in mind.
+
+##### The day you broke up with your significant other or the day you told them you’re moving in with someone else, you became a completely different person. You escalated that person’s shit. That new person has a right to expect you to put the same level of effort into them that you put into your previous relationship.&#xA;You weren’t doing it for them, or even thinking about them. You were doing it because you simply couldn’t give as much to your previous relationship as you could to your new one, and the way you heard it, your previous relationship deserved it.&#xA;Your devotion and effort aren’t perfectly reciprocated, but there comes a point where you can’t give as much to that person anymore and where the person who you’re in a relationship with becomes the essence of everything you are.&#xA;Whether you realize it or not, by continuing to put effort into someone who wasn’t as committed to you with you as on your previous date, you’re setting yourself up for a domino effect of their expectations of you, which leads to falling again and again faster than a nail with a toothpick in it.&#xA;There’s a very small window of opportunity at the beginning of relationships that leads to the end of them. This is why the feel-good moments of the first few weeks or months don’t necessarily last.&#xA;If a new relationship isn’t open to your standards or the way you’re used to dating or behaving in relationships, you’ll eventually realize that you can’t sustain one-hundred percent commitment and there’s no reason to keep doing this.&#xA;Whenever you feel bored or don’t feel connected to someone, remember why you broke up. Don’t treat it any differently.\*\*
